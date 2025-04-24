@@ -1,0 +1,4 @@
+selenium==4.15.2
+pytest
+pytest-xdist
+webdriver-manager
