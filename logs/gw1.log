@@ -1,0 +1,7 @@
+2025-04-26 17:07:48,713 [INFO] [WDM] [16835] xdist worker is: gw1
+2025-04-26 17:07:48,713 [INFO] [WDM] [16835] ====== WebDriver manager ======
+2025-04-26 17:07:48,770 [INFO] [WDM] [16835] Get LATEST chromedriver version for google-chrome
+2025-04-26 17:07:49,348 [INFO] [WDM] [16835] Get LATEST chromedriver version for google-chrome
+2025-04-26 17:07:49,496 [INFO] [WDM] [16835] Driver [/home/vishal/.wdm/gw1/drivers/chromedriver/linux64/135.0.7049.114/chromedriver-linux64/chromedriver] found in cache
+2025-04-26 17:08:01,183 [INFO] [pages.amazon_page] [16835] Clicking on the first product...
+2025-04-26 17:08:09,762 [INFO] [test_iphone] [16835] iPhone Price: ₹0.00

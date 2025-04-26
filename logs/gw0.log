@@ -1,0 +1,7 @@
+2025-04-26 17:07:48,713 [INFO] [WDM] [16832] xdist worker is: gw0
+2025-04-26 17:07:48,713 [INFO] [WDM] [16832] ====== WebDriver manager ======
+2025-04-26 17:07:48,770 [INFO] [WDM] [16832] Get LATEST chromedriver version for google-chrome
+2025-04-26 17:07:49,255 [INFO] [WDM] [16832] Get LATEST chromedriver version for google-chrome
+2025-04-26 17:07:49,389 [INFO] [WDM] [16832] Driver [/home/vishal/.wdm/gw0/drivers/chromedriver/linux64/135.0.7049.114/chromedriver-linux64/chromedriver] found in cache
+2025-04-26 17:08:02,286 [INFO] [pages.amazon_page] [16832] Clicking on the first product...
+2025-04-26 17:08:10,807 [INFO] [test_galaxy] [16832] Galaxy Price: ₹27,999.00
